@@ -53,4 +53,12 @@
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0910-nth-magical-number) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
