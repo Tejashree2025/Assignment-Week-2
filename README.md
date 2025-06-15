@@ -31,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Heap (Priority Queue)
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
