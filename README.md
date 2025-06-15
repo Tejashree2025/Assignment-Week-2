@@ -13,6 +13,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
@@ -76,6 +77,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
