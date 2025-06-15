@@ -52,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
