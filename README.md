@@ -9,6 +9,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -50,12 +51,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0910-nth-magical-number) |
 ## String
