@@ -37,11 +37,13 @@
 | [0164-maximum-gap](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -83,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,8 +95,13 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
