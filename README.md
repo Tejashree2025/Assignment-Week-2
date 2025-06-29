@@ -65,6 +65,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0910-nth-magical-number) |
 ## String
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
