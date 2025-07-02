@@ -93,6 +93,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0401-binary-watch) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
