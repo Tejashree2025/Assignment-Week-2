@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -110,6 +111,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
