@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
