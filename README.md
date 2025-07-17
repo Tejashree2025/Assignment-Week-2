@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0162-find-peak-element) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0401-binary-watch) |
 ## Dynamic Programming
