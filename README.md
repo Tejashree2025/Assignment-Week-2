@@ -18,6 +18,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0231-power-of-two](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0231-power-of-two) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0910-nth-magical-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0451-sort-characters-by-frequency) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +129,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
