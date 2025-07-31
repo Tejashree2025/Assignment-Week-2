@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0287-find-the-duplicate-number) |
@@ -148,4 +150,8 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
