@@ -19,6 +19,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0910-nth-magical-number](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0910-nth-magical-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -138,10 +140,12 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejashree2025/Assignment-Week-2/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
